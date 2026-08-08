@@ -28,5 +28,13 @@ main .slide h3{
 	color: white;
 	font-size: 40px;
 }
-
+main .slide h2{
+	color: red;
+	font-size: 55px;
+	
+}
+main .slide p{
+	color: white;
+	font-size: 18px;
+}
 
