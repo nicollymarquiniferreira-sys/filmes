@@ -101,16 +101,19 @@ footer{
 	height: 350px;
 	width: 100%;
     display: flex;
+    padding: 15px;
 }
 footer div{
 	width: 33%
 	height: 350px;
 	border: 1px solid #fff;
-
-
-	
-	border: 1px solid #fff;
 }
-
+footer .sobre{
+        color: white;
+}
+footer h2{
+        font-size:16px;
+        line-height:16px;
+}
 
 
